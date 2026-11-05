@@ -1,0 +1,11 @@
+# Chaves de API — nunca versionar
+.env
+
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Saídas geradas pela crew
+output/
